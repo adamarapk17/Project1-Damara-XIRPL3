@@ -52,14 +52,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\My random folder\Everything about my Tugas\Kelas XI\PBO\Project1\Project1-FirdausHaqiqi-XIRPL3" />
-      <recent name="D:\My random folder\Everything about my Tugas\Kelas XI\PBO\Project1\Project1-FirdausHaqiqi-XIRPL3\Source Packages" />
+      <recent name="D:\My random folder\Everything about my Tugas\Kelas XI\PBO\Project1\Project1-Damara-XIRPL3" />
+      <recent name="D:\My random folder\Everything about my Tugas\Kelas XI\PBO\Project1\Project1-Damara-XIRPL3\Source Packages" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MainAplikasiKasir">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="Project1-FirdausHaqiqi-XIRPL3" />
+      <module name="Project1-Damara-XIRPL3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
@@ -73,7 +73,7 @@
     <configuration name="MainAplikasiKasir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="14" />
       <option name="MAIN_CLASS_NAME" value="main.MainAplikasiKasir" />
-      <module name="Project1-FirdausHaqiqi-XIRPL3" />
+      <module name="Project1-Damara-XIRPL3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
